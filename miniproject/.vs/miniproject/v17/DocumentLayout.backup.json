@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D2F6B9-CEFC-516E-16CA-A30EEA35B64E}|Assembly-CSharp.csproj|C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\assets\\character\\pscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D2F6B9-CEFC-516E-16CA-A30EEA35B64E}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\pscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D2F6B9-CEFC-516E-16CA-A30EEA35B64E}|Assembly-CSharp.csproj|c:\\users\\potat\\documents\\\uAC8C\uC784\\mini project1\\miniproject\\assets\\character\\emove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D2F6B9-CEFC-516E-16CA-A30EEA35B64E}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\emove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D2F6B9-CEFC-516E-16CA-A30EEA35B64E}|Assembly-CSharp.csproj|C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\assets\\character\\pmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D2F6B9-CEFC-516E-16CA-A30EEA35B64E}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\pmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D2F6B9-CEFC-516E-16CA-A30EEA35B64E}|Assembly-CSharp.csproj|c:\\users\\potat\\documents\\\uAC8C\uC784\\mini project1\\miniproject\\assets\\character\\espawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D2F6B9-CEFC-516E-16CA-A30EEA35B64E}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\espawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ESpawn.cs",
+              "DocumentMoniker": "C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\Assets\\Character\\ESpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Character\\ESpawn.cs",
+              "ToolTip": "C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\Assets\\Character\\ESpawn.cs",
+              "RelativeToolTip": "Assets\\Character\\ESpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:21:59.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EMove.cs",
+              "DocumentMoniker": "C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\Assets\\Character\\EMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Character\\EMove.cs",
+              "ToolTip": "C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\Assets\\Character\\EMove.cs",
+              "RelativeToolTip": "Assets\\Character\\EMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:21:43.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PMove.cs",
+              "DocumentMoniker": "C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\Assets\\Character\\PMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Character\\PMove.cs",
+              "ToolTip": "C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\Assets\\Character\\PMove.cs",
+              "RelativeToolTip": "Assets\\Character\\PMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:06:07.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PScore.cs",
+              "DocumentMoniker": "C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\Assets\\Character\\PScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Character\\PScore.cs",
+              "ToolTip": "C:\\Users\\potat\\Documents\\\uAC8C\uC784\\mini project1\\miniproject\\Assets\\Character\\PScore.cs",
+              "RelativeToolTip": "Assets\\Character\\PScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:46:46.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
